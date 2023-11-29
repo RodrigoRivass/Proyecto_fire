@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375466217012",
+    "project_id": "fir-dec3c",
+    "storage_bucket": "fir-dec3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375466217012:android:056b04b50f8e1b44aa0461",
+        "android_client_info": {
+          "package_name": "com.fire.proyecto_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAoBU1srUaypMutUmJi1LFeHzdnjTV3mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
